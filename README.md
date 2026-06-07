@@ -52,6 +52,8 @@ installer/v1.9/MarketOverlaySetup_v1.9.exe
 
 소스코드는 공개 배포 저장소에 포함하지 않습니다. 협업이 필요한 경우 저장소 관리자에게 별도 private repository 접근 권한을 요청하세요.
 
+GitHub 릴리즈 화면에 자동으로 표시되는 `Source code (zip)` / `Source code (tar.gz)`는 GitHub가 태그 기준으로 생성하는 기본 항목입니다. 이 공개 저장소의 태그에는 앱의 Python 소스코드가 아니라 사용자 문서와 배포용 설치파일만 포함됩니다.
+
 ## 주의
 
 - 이 앱은 투자 판단을 대신하지 않는 보조 도구입니다.
