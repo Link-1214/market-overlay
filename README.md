@@ -56,10 +56,13 @@ releases/v1.9
 ## 문서
 
 - 사용자 가이드: `USER_GUIDE_V1_9.txt`
+- 그림으로 보는 사용법: `docs/USER_GUIDE_SCREENSHOT_V2_0.md` (차기 v2.0 준비용)
 - 패치노트: `PATCH_NOTES_V1_9.txt`
 - 릴리즈 노트: `RELEASE_NOTES_V1_9.md`
 - 버전별 보관: `releases/`
 - 배포 운영 메모: `DISTRIBUTION_WORKFLOW.md`
+
+스크린샷 가이드는 예시 데이터로 만든 화면을 사용합니다. 실제 사용자의 포트폴리오 정보는 포함하지 않습니다. v2.0 정식 설치본이 나오기 전까지는 최신 설치본 `v1.9.0`과 화면 구성이 일부 다를 수 있습니다.
 
 ## 소스코드 접근
 

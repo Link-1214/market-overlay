@@ -1,0 +1,42 @@
+[
+  {
+    "title": "오버레이 - market",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\overlay_market.png"
+  },
+  {
+    "title": "오버레이 - combined",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\overlay_combined.png"
+  },
+  {
+    "title": "오버레이 - portfolio",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\overlay_portfolio.png"
+  },
+  {
+    "title": "컨트롤 - 시장",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\control_market.png"
+  },
+  {
+    "title": "컨트롤 - 설정",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\control_settings.png"
+  },
+  {
+    "title": "컨트롤 - 포트폴리오",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\control_portfolio_list.png"
+  },
+  {
+    "title": "컨트롤 - 매매기록",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\control_trades.png"
+  },
+  {
+    "title": "컨트롤 - 배당",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\control_dividends.png"
+  },
+  {
+    "title": "컨트롤 - 성과비교",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\control_performance.png"
+  },
+  {
+    "title": "컨트롤 - 포트폴리오 히트맵",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\exercises\\market_overlay\\docs\\images\\user_guide_v2_0\\control_portfolio_heatmap.png"
+  }
+]
