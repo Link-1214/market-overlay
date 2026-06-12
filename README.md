@@ -17,6 +17,17 @@ Windows 데스크톱에서 시장 지표와 개인 포트폴리오 상태를 가
 installer/v1.9/MarketOverlaySetup_v1.9.exe
 ```
 
+이전 버전 설치파일과 당시 사용자 가이드/패치노트는 아래 폴더에서 확인할 수 있습니다.
+
+```text
+releases/v1.1
+releases/v1.2
+...
+releases/v1.9
+```
+
+각 버전 폴더에는 가능한 경우 `MarketOverlaySetup_*.exe`, `USER_GUIDE_*.txt`, `PATCH_NOTES_*.txt`, `SHA256SUMS.txt`를 함께 보관합니다. 오래된 자료는 로컬 보관본을 기준으로 재구성한 배포 기록이며, 전체 소스 히스토리는 아닙니다.
+
 ## 주요 기능
 
 - 시장 오버레이: CNN Fear & Greed, VIX, USD/KRW, S&P 500, Nasdaq Composite, KOSPI
@@ -47,6 +58,8 @@ installer/v1.9/MarketOverlaySetup_v1.9.exe
 - 사용자 가이드: `USER_GUIDE_V1_9.txt`
 - 패치노트: `PATCH_NOTES_V1_9.txt`
 - 릴리즈 노트: `RELEASE_NOTES_V1_9.md`
+- 버전별 보관: `releases/`
+- 배포 운영 메모: `DISTRIBUTION_WORKFLOW.md`
 
 ## 소스코드 접근
 
