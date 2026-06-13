@@ -14,6 +14,15 @@
 FC433AD881024A3F9AEB87B27FC4940AD7DEA110F53340B58DDE5B54CE2DC1A0
 ```
 
+## 빠른 사용 안내
+
+- [텍스트 사용자 가이드](USER_GUIDE_V2_0.txt)
+- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_0.md)
+- [v2.0 패치노트](PATCH_NOTES_V2_0.txt)
+- [릴리즈 노트](RELEASE_NOTES_V2_0.md)
+
+![종합 오버레이 예시](docs/images/user_guide_v2_0/overlay_combined.png)
+
 ## 주요 기능
 
 - 시장 오버레이: CNN Fear & Greed, VIX, USD/KRW, NASDAQ Composite, S&P 500, KOSPI
@@ -44,10 +53,11 @@ FC433AD881024A3F9AEB87B27FC4940AD7DEA110F53340B58DDE5B54CE2DC1A0
 ## 문서
 
 - [사용자 가이드](USER_GUIDE_V2_0.txt)
+- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_0.md)
 - [v2.0 패치노트](PATCH_NOTES_V2_0.txt)
 - [릴리즈 노트](RELEASE_NOTES_V2_0.md)
 
-스크린샷 기반 안내는 `docs/USER_GUIDE_SCREENSHOT_DRAFT_V2_0.md`에서 확인할 수 있습니다.
+스크린샷 기반 안내 이미지는 `docs/images/user_guide_v2_0/`에 정리되어 있습니다.
 
 ## 주의
 
