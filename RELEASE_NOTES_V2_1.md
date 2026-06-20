@@ -1,24 +1,52 @@
 # Market Overlay v2.1
 
-v2.1 adds Japanese equities/JPY, opt-in GitHub update notifications, Yahoo previous-close correction, clearer performance/treemap status, and a major internal responsibility split while preserving the single Windows application.
+v2.1은 실제 사용 중 확인된 전일대비 오류 가능성을 우선 보정하고, 트리맵 가독성과 일본 종목/JPY, 업데이트 확인 기능을 보강한 버전입니다.
 
-## Highlights
+## 주요 변경
 
-- Japanese `.T` symbols and JPY cash/cost basis conversion
-- `Heatmap` terminology migrated to `Treemap` with legacy state compatibility
-- Stable GitHub Release update checks with per-version ignore
-- Conditional Yahoo intraday fallback when the previous daily close is missing
-- Visualization, overlay, worker, and lifecycle modules separated
-- v2.0 state and backup compatibility regression coverage
+### 1. 전일대비 데이터 보정
 
-## Installer SHA-256
+- Yahoo 일봉 원본에서 직전 거래일 종가가 일시적으로 비는 사례로 인해 전일대비가 왜곡될 수 있었습니다.
+- 일봉의 전일 종가가 빈 경우에만 `5d/60m` 데이터의 직전 거래일 마지막 가격으로 보정합니다.
+- 정상 일봉 응답에서는 추가 분봉 조회를 하지 않습니다.
+
+### 2. 트리맵 가독성 개선
+
+- 화면과 코드의 `히트맵` 표현을 시각화 형식에 맞는 `트리맵`으로 통일했습니다.
+- 작은 박스에서 문자가 겹치지 않도록 라벨과 배치를 조정했습니다.
+- 미국 종목은 티커, 국내·일본 종목은 종목명을 주로 표시하고, 나머지 상세 정보는 마우스 오버 툴팁으로 확인할 수 있습니다.
+
+### 3. 일본 종목과 JPY 지원
+
+- `7203` 같은 일본 4자리 코드와 Yahoo Finance의 `.T` 심볼을 지원합니다.
+- JPY 평단가·예수금과 원화 환산을 지원합니다.
+- 자동완성은 국내, 미국, 일본 시장 순으로 정렬합니다.
+
+### 4. 업데이트 확인
+
+- 실행 후 하루 한 번 public GitHub의 최신 정식 릴리즈를 확인합니다.
+- 새 버전이 있을 때만 알림하며, 릴리즈 페이지 열기·해당 버전 알림 끄기·나중에 보기를 선택할 수 있습니다.
+- 자동 다운로드나 자동 설치는 하지 않습니다.
+
+### 5. 백업·복원 안내 보강
+
+- 백업 대상과 가져오기 시 변경 범위를 알기 쉽게 안내합니다.
+- 가져오기 전 기존 상태를 자동 백업하는 기존 안전 장치를 유지합니다.
+
+### 6. 내부 구조 정리
+
+- 시각화, 오버레이 3종, 데이터 worker, 중복 실행·종료 처리를 각각 파일로 분리하고 내부 실행 코드를 보강했습니다.
+- 앱은 기존처럼 Windows 실행 파일 하나로 사용합니다.
+
+## 설치파일 SHA-256
 
 ```text
 514355869C9A12A8DCC2AE8BA4CEE14C1C07E121481E6143C5917D7AB91EBF37
 ```
 
-## Notes
+## 안내
 
-- User data remains in `%APPDATA%\MarketOverlay` during an update install.
-- The app does not automatically download or install updates.
-- This is an unsigned personal build; Windows SmartScreen may show a warning.
+- 기존 버전 위에 업데이트 설치해도 `%APPDATA%\MarketOverlay`의 장부와 설정은 유지됩니다.
+- 이 앱은 투자 판단을 대신하지 않는 보조 도구입니다.
+- Yahoo Finance 기반 조회값은 증권사 HTS/MTS와 지연, 환율, 세금, 수수료 기준이 다를 수 있습니다.
+- 코드 서명이 없는 개인 빌드라 Windows SmartScreen 경고가 표시될 수 있습니다.
