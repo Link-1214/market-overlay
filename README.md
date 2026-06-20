@@ -17,7 +17,7 @@
 ## 빠른 사용 안내
 
 - [텍스트 사용자 가이드](USER_GUIDE_V2_1.txt)
-- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_0.md)
+- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_1.md)
 - [v2.1 패치노트](PATCH_NOTES_V2_1.txt)
 - [릴리즈 노트](RELEASE_NOTES_V2_1.md)
 
@@ -55,7 +55,7 @@
 ## 문서
 
 - [사용자 가이드](USER_GUIDE_V2_1.txt)
-- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_0.md)
+- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_1.md)
 - [v2.1 패치노트](PATCH_NOTES_V2_1.txt)
 - [릴리즈 노트](RELEASE_NOTES_V2_1.md)
 
