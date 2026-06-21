@@ -6,20 +6,20 @@
 
 최신 설치파일은 GitHub Releases에서 받습니다.
 
-- 최신 릴리즈: [v2.1.0](https://github.com/Link-1214/market-overlay/releases/tag/v2.1.0)
-- 설치파일: `MarketOverlaySetup_v2.1.exe`
+- 최신 릴리즈: [v2.1.1](https://github.com/Link-1214/market-overlay/releases/tag/v2.1.1)
+- 설치파일: `MarketOverlaySetup_v2.1.1.exe`
 - SHA-256:
 
 ```text
-514355869C9A12A8DCC2AE8BA4CEE14C1C07E121481E6143C5917D7AB91EBF37
+A5BB8A0927E1572BD333A9C53A64C0C59B456BF6748A1FD438702B46E52163B9
 ```
 
 ## 빠른 사용 안내
 
-- [텍스트 사용자 가이드](USER_GUIDE_V2_1.txt)
+- [텍스트 사용자 가이드](USER_GUIDE_V2_1_1.txt)
 - [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_1.md)
-- [v2.1 패치노트](PATCH_NOTES_V2_1.txt)
-- [릴리즈 노트](RELEASE_NOTES_V2_1.md)
+- [v2.1.1 패치노트](PATCH_NOTES_V2_1_1.txt)
+- [릴리즈 노트](RELEASE_NOTES_V2_1_1.md)
 
 ![종합 오버레이 예시](docs/images/user_guide_v2_0/overlay_combined.png)
 
@@ -54,10 +54,10 @@
 
 ## 문서
 
-- [사용자 가이드](USER_GUIDE_V2_1.txt)
+- [사용자 가이드](USER_GUIDE_V2_1_1.txt)
 - [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_1.md)
-- [v2.1 패치노트](PATCH_NOTES_V2_1.txt)
-- [릴리즈 노트](RELEASE_NOTES_V2_1.md)
+- [v2.1.1 패치노트](PATCH_NOTES_V2_1_1.txt)
+- [릴리즈 노트](RELEASE_NOTES_V2_1_1.md)
 
 스크린샷 기반 안내 이미지는 `docs/images/user_guide_v2_0/`에 정리되어 있습니다.
 
