@@ -3,7 +3,7 @@
 ## v2.2
 
 - 시장 데이터 provider 분리.
-- Yahoo 전일 종가 결측 보정 경계 정리.
+- v2.1 Yahoo 전일 종가 결측 보정 로직을 provider 경계와 회귀 테스트 안으로 정리.
 - state `schema_version`과 legacy migration 도입.
 - 진단 로그와 설정 탭 `로그 폴더 열기` 추가.
 - 포트폴리오 비중/트리맵 시각화 영역 QSplitter 적용.
