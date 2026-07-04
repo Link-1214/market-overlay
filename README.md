@@ -5,8 +5,8 @@
 ## 다운로드
 
 - 최신 릴리즈: [Market Overlay Releases](https://github.com/Link-1214/market-overlay/releases)
-- 현재 정식 버전: `v2.3`
-- 설치 파일: [MarketOverlaySetup_v2.3.exe](https://github.com/Link-1214/market-overlay/releases/download/v2.3.0/MarketOverlaySetup_v2.3.exe)
+- 현재 정식 버전: `v2.3.1`
+- 설치 파일: [MarketOverlaySetup_v2.3.1.exe](https://github.com/Link-1214/market-overlay/releases/download/v2.3.1/MarketOverlaySetup_v2.3.1.exe)
 
 설치 파일을 실행하면 기존 버전이 같은 경로에 업데이트 설치됩니다. 포트폴리오, 매매기록, 배당기록, 사용자 표시명, 설정은 `%APPDATA%\MarketOverlay`에 보관되어 업데이트 후에도 유지됩니다.
 
@@ -20,6 +20,12 @@
 - 성과비교: 현재 보유구성을 주요 지수와 단순 비교
 - 비중/트리맵: 현재 자산 비중과 선택 기간 수익률을 시각화
 
+## v2.3.1 핵심 변경
+
+- 포트폴리오 트리맵 색상 기준에 `내 평단가`를 추가했습니다.
+- 내 포트폴리오 오버레이 트리맵도 `내 평단가` 색상 기준을 반영합니다.
+- 미국, KRX, JPX 내장 종목명 데이터를 최신화했습니다.
+
 ## v2.3 핵심 변경
 
 - 설정 탭을 `일반`, `오버레이`, `시장/갱신`, `데이터/백업`, `업데이트/진단`으로 분리했습니다.
@@ -31,10 +37,10 @@
 
 ## 문서
 
-- [사용자 가이드](USER_GUIDE_V2_3.txt)
+- [사용자 가이드](USER_GUIDE_V2_3_1.txt)
 - [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_3.md)
-- [v2.3 패치노트](PATCH_NOTES_V2_3.txt)
-- [v2.3 릴리즈 노트](RELEASE_NOTES_V2_3.md)
+- [v2.3.1 패치노트](PATCH_NOTES_V2_3_1.txt)
+- [v2.3.1 릴리즈 노트](RELEASE_NOTES_V2_3_1.md)
 - [변경 이력](CHANGELOG.md)
 
 이미지 가이드는 v2.3 기준 설정 탭, 다크모드, 오버레이, 포트폴리오 비중/트리맵/목록, 매매기록/배당 화면을 설명합니다.
