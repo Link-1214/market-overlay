@@ -1,0 +1,46 @@
+[
+  {
+    "title": "설정 - 오버레이",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\control_settings_overlay_light.png"
+  },
+  {
+    "title": "설정 - 시장/갱신",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\control_settings_market_light.png"
+  },
+  {
+    "title": "시장 오버레이 - 라이트",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\overlay_market_light.png"
+  },
+  {
+    "title": "종합 오버레이 - 라이트",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\overlay_combined_light.png"
+  },
+  {
+    "title": "내 포트폴리오 오버레이 - 도넛",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\overlay_portfolio_donut_light.png"
+  },
+  {
+    "title": "포트폴리오 - 목록",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\control_portfolio_list_light.png"
+  },
+  {
+    "title": "포트폴리오 - 트리맵",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\control_portfolio_treemap_light.png"
+  },
+  {
+    "title": "설정 - 다크 테마",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\control_settings_general_dark.png"
+  },
+  {
+    "title": "매매기록 - 다크",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\control_trades_dark.png"
+  },
+  {
+    "title": "배당 - 다크",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\control_dividends_dark.png"
+  },
+  {
+    "title": "내 포트폴리오 오버레이 - 트리맵 다크",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-private\\docs\\images\\user_guide_v2_3\\overlay_portfolio_treemap_dark.png"
+  }
+]
