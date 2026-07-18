@@ -5,8 +5,8 @@
 ## 다운로드
 
 - 최신 릴리즈: [Market Overlay Releases](https://github.com/Link-1214/market-overlay/releases)
-- 현재 정식 버전: `v2.3.1`
-- 설치 파일: [MarketOverlaySetup_v2.3.1.exe](https://github.com/Link-1214/market-overlay/releases/download/v2.3.1/MarketOverlaySetup_v2.3.1.exe)
+- 현재 정식 버전: `v2.4.0`
+- 설치 파일: [MarketOverlaySetup_v2.4.exe](https://github.com/Link-1214/market-overlay/releases/download/v2.4.0/MarketOverlaySetup_v2.4.exe)
 
 설치 파일을 실행하면 기존 버전이 같은 경로에 업데이트 설치됩니다. 포트폴리오, 매매기록, 배당기록, 사용자 표시명, 설정은 `%APPDATA%\MarketOverlay`에 보관되어 업데이트 후에도 유지됩니다.
 
@@ -19,6 +19,15 @@
 - 매매기록/배당 관리: 자동 기록과 수동 입력, 필터, 정렬
 - 성과비교: 현재 보유구성을 주요 지수와 단순 비교
 - 비중/트리맵: 현재 자산 비중과 선택 기간 수익률을 시각화
+
+## v2.4 핵심 변경
+
+- 시장 탭과 시장/종합 오버레이에 S&P 500·Nasdaq-100 선물 등락과 방향 해석을 추가했습니다.
+- 미국 프리·애프터의 최신 단일 가격을 현재가와 평가액에 반영하고, 종목 행에 세션 배지를 표시합니다.
+- 포트폴리오 전체 전일대비, 트리맵 `전일` 색상, 일별 확정 기록은 정규장 가격만 사용합니다.
+- 시장 종가와 포트폴리오 일별 요약을 저장하고 Excel에서 읽을 수 있는 CSV로 내보낼 수 있습니다.
+- 설정을 `시장 지표`와 `데이터 갱신`으로 나누고 백업/복원 및 업데이트 확인 화면을 보강했습니다.
+- 실행 파일, 바탕화면 바로가기, 트레이에 Market Overlay 아이콘을 적용했습니다.
 
 ## v2.3.1 핵심 변경
 
@@ -37,13 +46,13 @@
 
 ## 문서
 
-- [사용자 가이드](USER_GUIDE_V2_3_1.txt)
-- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_3.md)
-- [v2.3.1 패치노트](PATCH_NOTES_V2_3_1.txt)
-- [v2.3.1 릴리즈 노트](RELEASE_NOTES_V2_3_1.md)
+- [사용자 가이드](USER_GUIDE_V2_4.txt)
+- [이미지로 보는 사용자 가이드](docs/USER_GUIDE_SCREENSHOT_V2_4.md)
+- [v2.4 패치노트](PATCH_NOTES_V2_4.txt)
+- [v2.4 릴리즈 노트](RELEASE_NOTES_V2_4.md)
 - [변경 이력](CHANGELOG.md)
 
-이미지 가이드는 v2.3 기준 설정 탭, 다크모드, 오버레이, 포트폴리오 비중/트리맵/목록, 매매기록/배당 화면을 설명합니다.
+이미지 가이드는 v2.4 기준 미국 선물, 프리/애프터 시세, 일별 기록, 설정 6탭, 백업/복원, 업데이트 확인, 오버레이와 포트폴리오 시각화를 설명합니다.
 
 ## 데이터와 주의
 

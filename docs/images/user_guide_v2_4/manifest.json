@@ -1,0 +1,66 @@
+[
+  {
+    "title": "시장 탭 - 선물 밴드와 개장 호라이즌",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_market_futures_light.png"
+  },
+  {
+    "title": "기준 탭 - 선물 해석 기준",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_criteria_futures_light.png"
+  },
+  {
+    "title": "설정 - 일반(해외 종목 가격 표시)",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_settings_general_light.png"
+  },
+  {
+    "title": "설정 - 시장 지표",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_settings_market_indicators_light.png"
+  },
+  {
+    "title": "설정 - 데이터 갱신",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_settings_refresh_light.png"
+  },
+  {
+    "title": "설정 - 데이터/백업",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_settings_backup_light.png"
+  },
+  {
+    "title": "시장 오버레이 - 선물 밴드",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\overlay_market_futures_light.png"
+  },
+  {
+    "title": "종합 오버레이",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\overlay_combined_light.png"
+  },
+  {
+    "title": "내 포트폴리오 오버레이 - 도넛",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\overlay_portfolio_donut_light.png"
+  },
+  {
+    "title": "포트폴리오 - 종합 롤업",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_portfolio_rollup_light.png"
+  },
+  {
+    "title": "포트폴리오 - 종목 목록(프리 배지)",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_portfolio_list_pre_light.png"
+  },
+  {
+    "title": "포트폴리오 - 트리맵",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_portfolio_treemap_light.png"
+  },
+  {
+    "title": "시장 탭 - 다크",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_market_futures_dark.png"
+  },
+  {
+    "title": "포트폴리오 - 종목 목록 다크",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_portfolio_list_dark.png"
+  },
+  {
+    "title": "매매기록 - 다크",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\control_trades_dark.png"
+  },
+  {
+    "title": "내 포트폴리오 오버레이 - 트리맵 다크",
+    "file": "C:\\AI_Workspace\\03_Coding_Practice\\market-overlay-table-model-refactor\\docs\\images\\user_guide_v2_4\\overlay_portfolio_treemap_dark.png"
+  }
+]
